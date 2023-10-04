@@ -9,21 +9,21 @@ _______________
 ### 3. Создать папку inner_dir_1
 `mkdir inner_dir_1`
 
- 4. Посмотреть где ты находишься
-pwd
+### 4. Посмотреть где ты находишься
+`pwd`
 
- 5. Находясь в папке dir_1 создать пустой текстовый файл tf_1.txt
-touch tf_1.txt
+### 5. Находясь в папке dir_1 создать пустой текстовый файл tf_1.txt
+`touch tf_1.txt`
 
  6. Находясь в папке dir_1 через команду cat создать текстовый файл tf_2.txt со следующими строками:
 - the first 1
 - the second 2
 - the third 3
 -------------------
-cat > tf_2.txt
-- the first 1
-- the second 2
-- the third 3
+`cat > tf_2.txt
+the first 1
+the second 2
+the third 3`
 
  7. Зайти в папку inner_dir_1
 cd inner_dir_1
